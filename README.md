@@ -1,23 +1,23 @@
-## Vaccination-Analysis-Linnea
+## Vaccination-Analysis
 
-# Hi and welcome to Vaccination analysis!
+# Hi and welcome to the Vaccination analysis application!
 
 This application compares two countries in terms of vaccination data, you can select the vaccination numbers you would
-like to compare between the countries.
+like to compare between the countries. For each country or two countries you can analyse the following columns.
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -c1 COUNTRY1, --country1 COUNTRY1
-                        First country to analyse
-  -c2 COUNTRY2, --country2 COUNTRY2
-                        Second country to analyse (optional)
-  -d DATAFLAG, --dataflag DATAFLAG
-                        Select the field you would like to analyse: total_vaccinations, people_vaccinated,
-                        people_fully_vaccinated, daily_vaccinations_raw, daily_vaccinations,
-                        total_vaccinations_per_hundred, people_vaccinated_per_hundred,
-                        people_fully_vaccinated_per_hundred, daily_vaccinations_per_million
+total_vaccinations <br/>
+people_vaccinated <br/>
+people_fully_vaccinated <br/>
+daily_vaccinations_raw <br/>
+daily_vaccinations <br/>
+total_vaccinations_per_hundred <br/>
+people_vaccinated_per_hundred <br/>
+people_fully_vaccinated_per_hundred <br/> 
+daily_vaccinations_per_million <br/>
 
-The different columns stated above can be sorted and compared for two countries in a simple bar-chart. 
+If you need additional information such as the sources for each individual country then you can find them in the excel-document. 
+
+The different columns stated above can be sorted and compared for two countries in a simple bar-chart. For some help enter -h. 
 
 # Instructions!
 
