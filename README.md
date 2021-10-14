@@ -1,6 +1,6 @@
 ## Vaccination-Analysis
 
-# Hi and welcome to the Vaccination analysis application!
+# Instructions
 
 This application compares two countries in terms of vaccination data, you can select the vaccination numbers you would
 like to compare between the countries. For each country or two countries you can analyse the following columns.
