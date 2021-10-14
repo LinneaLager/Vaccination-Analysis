@@ -27,6 +27,10 @@ Download or clone repository. Use pip install -r requirements.txt. What to enter
     
     python main.py -c1 country1 -c2 country2 -d dataflag 
     
+It will look like this for just one country: 
+
+![Figure_1](https://user-images.githubusercontent.com/89390286/137326365-2d79d46c-961d-4b44-a05c-1c4ff113a497.png)
+
 If you only want to analyse just one country then don't enter the -c2.
 
 
