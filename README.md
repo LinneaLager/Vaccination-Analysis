@@ -25,7 +25,7 @@ The different columns stated above can be sorted and compared for two countries 
 
 Download or clone repository. Use pip install -r requirements.txt. What to enter into the terminal? 
     
-    python main.py -c1 country1 -c2 country2 -d datacolumn 
+    python main.py -c1 country1 -c2 country2 -d dataflag 
     
 If you only want to analyse just one country then don't enter the -c2.
 
